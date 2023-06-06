@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "title": "fred",
+      "completed": false,
+      "important": true,
+      "id": 2
+    },
+    {
+      "title": "trabalho",
+      "completed": true,
+      "important": true,
+      "id": 3
+    },
+    {
+      "title": "novo",
+      "completed": true,
+      "important": false,
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
